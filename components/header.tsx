@@ -28,7 +28,7 @@ export function Header() {
               Servicios
             </Link>
             <Link href="#proceso" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
-              Proceso
+              Procesos
             </Link>
             <Link href="#garantias" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
               Garantías
