@@ -27,10 +27,10 @@ export function ContactForm() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     setIsSubmitting(true)
-    
+
     // Simular envío
     await new Promise(resolve => setTimeout(resolve, 1500))
-    
+
     setIsSubmitting(false)
     setIsSubmitted(true)
   }
@@ -48,7 +48,7 @@ export function ContactForm() {
               Pide tu presupuesto sin compromiso
             </h2>
             <p className="text-muted-foreground text-lg mb-10">
-              Cuéntanos tu proyecto y te prepararemos un presupuesto detallado y personalizado. 
+              Cuéntanos tu proyecto y te prepararemos un presupuesto detallado y personalizado.
               Sin compromiso y totalmente gratuito.
             </p>
 
@@ -83,7 +83,7 @@ export function ContactForm() {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground">Zona de trabajo</p>
-                  <p className="text-lg font-medium text-foreground">Madrid y alrededores</p>
+                  <p className="text-lg font-medium text-foreground"><Barcelona></Barcelona> alrededores</p>
                 </div>
               </div>
             </div>
