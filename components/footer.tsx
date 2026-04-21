@@ -15,26 +15,26 @@ export function Footer() {
               <span className="font-serif text-xl font-semibold">ReformasPro</span>
             </Link>
             <p className="text-background/70 mb-6">
-              Expertos en reformas integrales con más de 15 años de experiencia 
+              Expertos en reformas integrales con más de 10 años de experiencia
               transformando espacios.
             </p>
             <div className="flex gap-3">
-              <a 
-                href="#" 
+              <a
+                href="#"
                 className="w-10 h-10 bg-background/10 rounded-lg flex items-center justify-center hover:bg-background/20 transition-colors"
                 aria-label="Facebook"
               >
                 <Facebook className="w-5 h-5" />
               </a>
-              <a 
-                href="#" 
+              <a
+                href="#"
                 className="w-10 h-10 bg-background/10 rounded-lg flex items-center justify-center hover:bg-background/20 transition-colors"
                 aria-label="Instagram"
               >
                 <Instagram className="w-5 h-5" />
               </a>
-              <a 
-                href="#" 
+              <a
+                href="#"
                 className="w-10 h-10 bg-background/10 rounded-lg flex items-center justify-center hover:bg-background/20 transition-colors"
                 aria-label="LinkedIn"
               >
@@ -80,7 +80,7 @@ export function Footer() {
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-primary shrink-0" />
                 <a href="mailto:info@reformaspro.es" className="hover:text-background transition-colors">
-                  info@reformaspro.es
+                  info@AS23.es
                 </a>
               </li>
               <li className="flex items-start gap-3">
