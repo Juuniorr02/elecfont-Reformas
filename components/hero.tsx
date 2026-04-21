@@ -56,7 +56,7 @@ export function Hero() {
         {/* Trust indicators */}
         <div className="mt-16 flex flex-wrap items-center justify-center gap-8 text-white/70">
           <div className="flex items-center gap-2">
-            <span className="text-3xl font-bold text-white">500+</span>
+            <span className="text-3xl font-bold text-white">100+</span>
             <span className="text-sm">Proyectos<br />completados</span>
           </div>
           <div className="w-px h-12 bg-white/20 hidden sm:block" />
