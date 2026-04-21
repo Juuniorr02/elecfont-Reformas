@@ -3,19 +3,19 @@ import { Inter, Playfair_Display } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
-const inter = Inter({ 
+const inter = Inter({
   subsets: ["latin"],
   variable: '--font-inter'
 });
 
-const playfair = Playfair_Display({ 
+const playfair = Playfair_Display({
   subsets: ["latin"],
   variable: '--font-playfair'
 });
 
 export const metadata: Metadata = {
   title: 'Reformas Integrales | Tu Hogar, Nuestra Pasión',
-  description: 'Expertos en reformas integrales de pisos, casas, locales y oficinas. Presupuesto sin compromiso. Gestión completa de tu proyecto con arquitectos y profesionales cualificados.',
+  description: 'Expertos en reformas integrales de pisos, casas, locales y oficinas. Presupuesto sin compromiso. Gestión completa de tu proyecto.',
   generator: 'v0.app',
   keywords: ['reformas integrales', 'reformas pisos', 'reformas cocinas', 'reformas baños', 'albañilería', 'carpintería'],
   icons: {

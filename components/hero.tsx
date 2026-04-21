@@ -29,7 +29,7 @@ export function Hero() {
 
         <p className="max-w-2xl mx-auto text-lg sm:text-xl text-white/80 mb-10 leading-relaxed text-pretty">
           Reformas integrales de pisos, casas, locales y oficinas.
-          Gestión completa, con arquitectos que colaboran en nuestros Proyectos y profesionales cualificados.
+          Gestión completa.
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
@@ -66,7 +66,7 @@ export function Hero() {
           </div>
           <div className="w-px h-12 bg-white/20 hidden sm:block" />
           <div className="flex items-center gap-2">
-            <span className="text-3xl font-bold text-white">2 años</span>
+            <span className="text-3xl font-bold text-white"></span>
             <span className="text-sm">de garantía<br />en obras</span>
           </div>
         </div>
