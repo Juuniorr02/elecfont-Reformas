@@ -93,7 +93,7 @@ export function Footer() {
 
         {/* Bottom */}
         <div className="pt-8 border-t border-background/10 text-center text-background/50 text-sm">
-          <p>© {new Date().getFullYear()} ReformasPro. Todos los derechos reservados.</p>
+          <p>© {new Date().getFullYear()} AS23. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>
