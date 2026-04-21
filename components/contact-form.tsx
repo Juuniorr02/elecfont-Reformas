@@ -71,8 +71,8 @@ export function ContactForm() {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground">Email</p>
-                  <a href="mailto:info@reformaspro.es" className="text-lg font-medium text-foreground hover:text-primary transition-colors">
-                    info@reformaspro.es
+                  <a href="mailto:info@AS23.es" className="text-lg font-medium text-foreground hover:text-primary transition-colors">
+                    info@AS23.es
                   </a>
                 </div>
               </div>

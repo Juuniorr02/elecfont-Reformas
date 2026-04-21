@@ -18,7 +18,7 @@ export function Header() {
               <span className="text-primary-foreground font-bold text-lg">R</span>
             </div>
             <span className="font-serif text-xl font-semibold text-foreground hidden sm:block">
-              ReformasPro
+              AS23
             </span>
           </Link>
 
@@ -47,7 +47,7 @@ export function Header() {
               <Phone className="w-4 h-4" />
               <span className="hidden lg:inline">600 000 000</span>
             </a>
-            
+
             <a
               href="https://wa.me/34600000000"
               target="_blank"

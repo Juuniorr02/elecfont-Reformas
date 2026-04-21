@@ -12,7 +12,7 @@ export function Footer() {
               <div className="w-10 h-10 bg-primary rounded-sm flex items-center justify-center">
                 <span className="text-primary-foreground font-bold text-lg">R</span>
               </div>
-              <span className="font-serif text-xl font-semibold">ReformasPro</span>
+              <span className="font-serif text-xl font-semibold">AS23</span>
             </Link>
             <p className="text-background/70 mb-6">
               Expertos en reformas integrales con más de 10 años de experiencia
@@ -79,7 +79,7 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-primary shrink-0" />
-                <a href="mailto:info@reformaspro.es" className="hover:text-background transition-colors">
+                <a href="mailto:info@AS23.es" className="hover:text-background transition-colors">
                   info@AS23.es
                 </a>
               </li>
